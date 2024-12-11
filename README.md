@@ -1,5 +1,5 @@
 # Praca-Inzynierska
-Repozytorium zawiera zbiory danych oraz kod źródłowy pracy inżynierskiej pt. "**Zastosowanie uczenia maszynowego w predykcji procesów demograficznych**". 
+Repozytorium zawiera zbiory danych oraz kod źródłowy pracy dyplomowej pt. "**Zastosowanie uczenia maszynowego w predykcji procesów demograficznych**". 
 
 Zbiory danych: 
 - population.csv (dane dotyczące populacji krajów europejskich, źródło: https://ec.europa.eu/eurostat)
